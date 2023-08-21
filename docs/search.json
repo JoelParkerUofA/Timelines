@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "proposal.html",
+    "href": "proposal.html",
+    "title": "Proposal",
+    "section": "",
+    "text": "gantt\n  title Dissertation Proposal Timeline\n  Semester Start : milestone, m1, 21-08-2023\n  Create Plan : 1w\n  Task 1 : 2w\n  Task 2 : 2w\n  Task 3 : 2w"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Timelines",
+    "section": "",
+    "text": "The purpose of the website is to store times for various projects that I have going on. The ongoing projects are.\n\nDissertation proposal\nDeconvolution"
+  },
+  {
+    "objectID": "Deconvolution.html",
+    "href": "Deconvolution.html",
+    "title": "Deconvolution",
+    "section": "",
+    "text": "gantt\n  dateFormat DD-MM-YYYY\n  title Deconvolution Timeline\n  Deconvolution Start  : milestone, 07-08-2023, 0d \n  Think about modeling :done, t1, 07-08-2023,  2w\n  Variablity in SpatialDecon :active, 2w\n  Expand on SpatialDecon : 2w\n  Xiaoxiao Return : milestone,  01-10-2023, 0d"
+  }
+]
