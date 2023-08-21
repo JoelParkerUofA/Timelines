@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Timelines"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - proposal.qmd
+      - Deconvolution.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

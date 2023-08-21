@@ -1,0 +1,16 @@
+---
+title: "Deconvolution"
+editor: visual
+---
+
+
+```{mermaid}
+gantt
+  dateFormat DD-MM-YYYY
+  title Deconvolution Timeline
+  Deconvolution Start  : milestone, 07-08-2023, 0d 
+  Think about modeling :done, t1, 07-08-2023,  2w
+  Variablity in SpatialDecon :active, 2w
+  Expand on SpatialDecon : 2w
+  Xiaoxiao Return : milestone,  01-10-2023, 0d 
+```

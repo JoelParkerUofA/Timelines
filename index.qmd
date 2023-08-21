@@ -1,0 +1,11 @@
+---
+title: "Timelines"
+author: "Joel Parker"
+---
+
+The purpose of the website is to store times for various projects that I have 
+going on. The ongoing projects are. 
+
+* Dissertation proposal
+
+* Deconvolution
