@@ -2,13 +2,16 @@
 title: "Proposal"
 ---
 
-
 ```{mermaid}
 gantt
+  dateFormat DD-MM-YYYY
   title Dissertation Proposal Timeline
   Semester Start : milestone, m1, 21-08-2023
-  Create Plan : 1w
-  Task 1 : 2w
-  Task 2 : 2w
-  Task 3 : 2w
+   Create Plan: 1w
+  Introduction : 2w
+  Aims and Objectives : 2w
+  Methodology : 2w
+  Implications : 2w
+  Limitations : 2w
+  Bibliography: 1w
 ```
